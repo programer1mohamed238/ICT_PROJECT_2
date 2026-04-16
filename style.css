@@ -28,20 +28,19 @@ border-radius: 20px;
 
 
 }
-.h11{margin-top: 100px;}
-
-
-
-.h4{
-color: orange;
-
-
-
-
-
-
+.h11{margin-top: 100px;
+color: whitesmoke;
 
 }
+
+
+
+
+
+
+
+
+
 
 
 .games{
@@ -75,12 +74,17 @@ color: rgb(101, 101, 255);
 
 
 
+.body{
+background-image: url(pictures/back\ ground.webp);
+height: 80vh;
+background-size: cover;
+background-position: center;
 
+}
 
-
-
-
-
+.h33{
+    color:whitesmoke;
+}
 
 
 
